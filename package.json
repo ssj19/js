@@ -1,0 +1,25 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "my first project using nodejs",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssj19/js.git"
+  },
+  "author": "sudhir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssj19/js/issues"
+  },
+  "homepage": "https://github.com/ssj19/js#readme"
+}
